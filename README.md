@@ -362,23 +362,6 @@ The sample candidates represent different profiles:
 2. Medium Backend Resume
 3. Weak Frontend Resume
 
-These can be uploaded through the application to demonstrate the ranking workflow.
-
-📸 Screenshots
-
-Add screenshots of the working application here.
-
-Landing Page
-
-Add your screenshot here.
-
-Resume Ranking Dashboard
-
-Add your screenshot here.
-
-Ranked Candidate Results
-
-Add your screenshot here.
 
 🔄 Application Workflow
 Enter Job Description
@@ -443,13 +426,7 @@ Semantic similarity is one component of the overall ranking and does not replace
 
 The system is intended as a resume screening and ranking aid, not as a replacement for human hiring decisions.
 
-👨‍💻 Author
-Om Nathani
 
-Computer Science Engineering Student
-
-GitHub:
-https://github.com/Aum1905
 
 📄 License
 
